@@ -4,3 +4,4 @@
 Acá se irán agregando los códigos realizado por cada día.
 
 1. Verificando si la fecha de un día es primo o no!
+2. Conversor de números a distintas bases
